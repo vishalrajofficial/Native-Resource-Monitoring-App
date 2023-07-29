@@ -55,11 +55,6 @@ Contributions to the Native Resource Monitoring Web App project are welcome! If 
 
 The Native Resource Monitoring Web App is open-source and licensed under the [MIT License](https://github.com/vishalrajofficial/Native-Resource-Monitoring-App/blob/main/LICENSE).
 
-## Acknowledgments
-
-- Thanks to all the contributors who have helped shape and improve this project.
-- Special thanks to the creators and maintainers of the libraries and tools used in this app.
-
 ## Contact
 
 For any inquiries or questions, don't hesitate to get in touch with the project owner:
